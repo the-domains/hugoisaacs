@@ -1,0 +1,28 @@
+name: HugoIsaacs
+favicon: null
+layout_spectrum: 0.03189568314701319
+typography_spectrum: 0.9384686171542853
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5122862444259226
+  lightness: 0.21487401449121535
+  saturation: 0.26151930005289614
+  rhythmicContrast: 0.5430930526927114
+purpose: []
